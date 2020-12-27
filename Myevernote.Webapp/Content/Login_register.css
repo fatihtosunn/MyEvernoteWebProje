@@ -1,0 +1,45 @@
+﻿
+.main {
+    margin-top: 50px;
+}
+
+.btn-color {
+    color: #a93333;
+}
+
+.main-content {
+    /*    background-color:#009edf;*/
+    border: 2px solid #a93333;
+    margin: auto;
+    max-width: 500px;
+    padding: 20px 40px;
+    color: #a93333;
+    text-shadow: none;
+}
+
+
+.input-group {
+    margin: 20px;
+}
+
+.input-group-addon {
+    color: #a93333;
+    font-size: 17px;
+}
+
+.login-button {
+    margin: auto;
+    max-width: 200px;
+}
+
+
+.form-header {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #a93333;
+    color: #fff;
+    width: 100%;
+    padding: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px
+}

@@ -1,0 +1,14 @@
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\MyBlog.Entities.dll.config
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\MyBlog.Entities.dll
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\MyBlog.Entities.pdb
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\EntityFramework.dll
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\FakeData.dll
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\EntityFramework.xml
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proje\MyevernoteSolution\MyBlog.Entities\bin\Debug\FakeData.pdb
+D:\Proje\MyevernoteSolution\MyBlog.Entities\obj\Debug\MyBlog.Entities.csproj.CoreCompileInputs.cache
+D:\Proje\MyevernoteSolution\MyBlog.Entities\obj\Debug\MyBlog.Entities.csproj.CopyComplete
+D:\Proje\MyevernoteSolution\MyBlog.Entities\obj\Debug\MyBlog.Entities.dll
+D:\Proje\MyevernoteSolution\MyBlog.Entities\obj\Debug\MyBlog.Entities.pdb
+D:\Proje\MyevernoteSolution\MyBlog.Entities\obj\Debug\MyBlog.Entities.csprojAssemblyReference.cache

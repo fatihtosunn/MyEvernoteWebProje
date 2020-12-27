@@ -1,0 +1,12 @@
+D:\Proje\MyevernoteSolution\MyBlog.Core\bin\Debug\MyBlog.Core.dll
+D:\Proje\MyevernoteSolution\MyBlog.Core\bin\Debug\MyBlog.Core.pdb
+D:\Proje\MyevernoteSolution\MyBlog.Core\obj\Debug\MyBlog.Core.csprojAssemblyReference.cache
+D:\Proje\MyevernoteSolution\MyBlog.Core\obj\Debug\MyBlog.Core.csproj.CoreCompileInputs.cache
+D:\Proje\MyevernoteSolution\MyBlog.Core\obj\Debug\MyBlog.Core.dll
+D:\Proje\MyevernoteSolution\MyBlog.Core\obj\Debug\MyBlog.Core.pdb
+D:\Proje\MyevernoteSolution\MyBlog.Core\bin\Debug\MyBlog.Common.dll
+D:\Proje\MyevernoteSolution\MyBlog.Core\bin\Debug\MyBlog.Entities.dll
+D:\Proje\MyevernoteSolution\MyBlog.Core\bin\Debug\MyBlog.Common.pdb
+D:\Proje\MyevernoteSolution\MyBlog.Core\bin\Debug\MyBlog.Entities.pdb
+D:\Proje\MyevernoteSolution\MyBlog.Core\bin\Debug\MyBlog.Entities.dll.config
+D:\Proje\MyevernoteSolution\MyBlog.Core\obj\Debug\MyBlog.Core.csproj.CopyComplete

@@ -1,0 +1,68 @@
+﻿@model MyBlog.Entities.Note
+
+@{
+    ViewBag.Title = "Delete";
+}
+<div class="container">
+    <div class="row">
+        <h4>Delete</h4>
+        <h4>Bu notu gerçekten silmek istediğinize emin misiniz?</h4>
+        <hr />
+    </div>
+    <div class="row">
+        <div>
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Category.Title)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Category.Title)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Title)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Title)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Text)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Text)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.IsDraft)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.IsDraft)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.LikeCount)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.LikeCount)
+                </dd>
+
+            </dl>
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-actions no-color">
+                    @MyBootStrap.Button("danger", "btn-sm", "submit", "trash", " Yok Et!")
+                    @MyBootStrap.LinkButton("/Note/Index", "warning", "btn-sm", "Geri Dön", "hand-left", " Geri Dön")
+                </div>
+            }
+        </div>
+    </div>
+</div>
